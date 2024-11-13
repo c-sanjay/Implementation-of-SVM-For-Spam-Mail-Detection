@@ -32,10 +32,9 @@ Step 9. End the Program.
 
 ## Program:
 ```py
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: SANJAY C
-RegisterNumber: 212223240150
+#Program to implement the SVM For Spam Mail Detection..
+#Developed by: SANJAY C
+#RegisterNumber: 212223240150
 
 
 import pandas as pd
